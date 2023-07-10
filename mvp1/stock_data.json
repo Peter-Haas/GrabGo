@@ -1,0 +1,16 @@
+{
+  "products": [
+    {
+      "id": "keyboard",
+      "weight": 0.4,
+      "qty": 1,
+      "present": true
+    },
+    {
+      "id": "box",
+      "weight": 1.5,
+      "qty": 1,
+      "present": true
+    }
+  ]
+}
